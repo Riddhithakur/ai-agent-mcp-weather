@@ -1,0 +1,16 @@
+
+👉 Save (Commit changes)
+
+---
+
+## 📸 Method 2: Terminal Screenshot (Easy)
+
+1. Terminal run karo  
+2. Screenshot lo 📷  
+3. GitHub me upload karo  
+4. README me add karo:
+
+```markdown
+## 🧪 Output Screenshot
+
+![Output](screenshot.png)
